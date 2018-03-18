@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MohamadAfifudin_1202150059_Modul4</string>
+    <string-array name="namaMhs">
+        <item>Afif</item>
+        <item>Ikhsan</item>
+        <item>Bagas</item>
+        <item>Irham</item>
+        <item>Prima</item>
+        <item>Farhan</item>
+        <item>Rizki</item>
+        <item>Yudha</item>
+        <item>Sylvia</item>
+        <item>Tiara</item>
+        <item>Hirnanda</item>
+        <item>Editha</item>
+        <item>Angel</item>
+    </string-array>
+</resources>
